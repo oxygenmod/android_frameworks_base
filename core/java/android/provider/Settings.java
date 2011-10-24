@@ -1822,10 +1822,10 @@ public final class Settings {
         public static final String EXPANDED_FLASH_MODE = "expanded_flash_mode";
 
         /** @hide */
-        public static final String BATTERY_PERCENTAGE = "battery_percentage";
+        public static final String SHARE_SCREENSHOT = "share_screenshot";
 
         /** @hide */
-        public static final String SHARE_SCREENSHOT = "share_screenshot";
+        public static final String STATUS_BAR_BATTERY = "status_bar_battery";
 
         /**
          * Settings to backup. This is here so that it's in the same place as the settings
